@@ -1,3 +1,6 @@
+#Problem set 1 #9 Find Eulerian Tour
+##https://discussions.udacity.com/t/problem-set-1-challenge-find-eulerian-tour/26214/8
+
 def get_degree(graph):
     degree = {}
     for x, y in graph:
